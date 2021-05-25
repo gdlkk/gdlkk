@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🌱 I’m currently learning
+* Swift
+* Python
+
+🔭 I’m currently working on
+* Python script to collecting data, processing and generating report from pressure press as part of my student internships
+
+
 <!--
 **gdlkk/gdlkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
