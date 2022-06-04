@@ -7,7 +7,7 @@ I'm SAP Basis Consultant working in Monitoring & Automation Team
 
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" /> Python
 <a href="https://github.com/gudlakk/github-readme-stats">
-  <img align="right" src="https://github-readme-stats-objd81g3f-gdlkk.vercel.app/api/top-langs/?username=gdlkk&layout=compact&langs_count=8" />
+  <img align="right" src="https://github-readme-stats-objd81g3f-gdlkk.vercel.app/api/top-langs/?username=gdlkk&layout=compact&langs_count=8&hide=swift,java" />
 </a>
 
 
