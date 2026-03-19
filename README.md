@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm SAP Basis Consultant working in Monitoring & Automation Team
+I'm SAP Basis Consultant working in SAP Technology & Automation Team
 
 👨‍💻 I’m currently working with:
 
